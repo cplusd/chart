@@ -1,0 +1,8 @@
+RemoveDynamicRegistrar:false
+/Users/danny.qi/Projects/Chart/Chart/bin/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/Chart.app:/Users/danny.qi/Projects/Chart/Chart/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Chart.exe
+/Users/danny.qi/Projects/Chart/Chart/bin/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/Chart.app:/Users/danny.qi/Projects/Chart/Chart/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/mscorlib.dll
+/Users/danny.qi/Projects/Chart/Chart/bin/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/Chart.app:/Users/danny.qi/Projects/Chart/Chart/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Xamarin.iOS.dll
+/Users/danny.qi/Projects/Chart/Chart/bin/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/Chart.app:/Users/danny.qi/Projects/Chart/Chart/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/System.dll
+/Users/danny.qi/Projects/Chart/Chart/bin/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/Chart.app:/Users/danny.qi/Projects/Chart/Chart/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/Mono.Security.dll
+/Users/danny.qi/Projects/Chart/Chart/bin/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/Chart.app:/Users/danny.qi/Projects/Chart/Chart/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/System.Xml.dll
+/Users/danny.qi/Projects/Chart/Chart/bin/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/Chart.app:/Users/danny.qi/Projects/Chart/Chart/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.2/mtouch-cache/1-Link/System.Core.dll

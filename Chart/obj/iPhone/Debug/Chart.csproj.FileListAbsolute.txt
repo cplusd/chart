@@ -1,0 +1,15 @@
+/Users/danny.qi/Projects/Chart/Chart/bin/iPhone/Debug/Chart.exe
+/Users/danny.qi/Projects/Chart/Chart/bin/iPhone/Debug/Chart.pdb
+/Users/danny.qi/Projects/Chart/Chart/bin/iPhone/Debug/Xamarin.Essentials.dll
+/Users/danny.qi/Projects/Chart/Chart/bin/iPhone/Debug/Xamarin.Essentials.pdb
+/Users/danny.qi/Projects/Chart/Chart/obj/iPhone/Debug/Chart.csproj.CoreCompileInputs.cache
+/Users/danny.qi/Projects/Chart/Chart/obj/iPhone/Debug/Chart.csproj.CopyComplete
+/Users/danny.qi/Projects/Chart/Chart/obj/iPhone/Debug/Chart.exe
+/Users/danny.qi/Projects/Chart/Chart/obj/iPhone/Debug/Chart.pdb
+/Users/danny.qi/Projects/Chart/Chart/obj/iPhone/Debug/Chart.csprojAssemblyReference.cache
+/Users/danny.qi/Projects/Chart/Chart/obj/iPhone/Debug/device-builds/iphone8.1-12.4.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/danny.qi/Projects/Chart/Chart/obj/iPhone/Debug/device-builds/iphone8.1-12.4.1/actool/_PartialAppManifest.items
+/Users/danny.qi/Projects/Chart/Chart/obj/iPhone/Debug/device-builds/iphone8.1-12.4.1/actool/_BundleResourceWithLogicalName.items
+/Users/danny.qi/Projects/Chart/Chart/obj/iPhone/Debug/device-builds/iphone8.1-12.4.1/coremlc/_PartialAppManifest.items
+/Users/danny.qi/Projects/Chart/Chart/obj/iPhone/Debug/device-builds/iphone8.1-12.4.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/danny.qi/Projects/Chart/Chart/obj/iPhone/Debug/device-builds/iphone8.1-12.4.1/optimized/

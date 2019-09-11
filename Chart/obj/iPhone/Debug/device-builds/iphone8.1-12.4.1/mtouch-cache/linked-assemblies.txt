@@ -1,0 +1,5 @@
+RemoveDynamicRegistrar:true
+/Users/danny.qi/Projects/Chart/Chart/bin/iPhone/Debug/device-builds/iphone8.1-12.4.1/Chart.app:/Users/danny.qi/Projects/Chart/Chart/obj/iPhone/Debug/device-builds/iphone8.1-12.4.1/mtouch-cache/1-Link/Chart.exe
+/Users/danny.qi/Projects/Chart/Chart/bin/iPhone/Debug/device-builds/iphone8.1-12.4.1/Chart.app:/Users/danny.qi/Projects/Chart/Chart/obj/iPhone/Debug/device-builds/iphone8.1-12.4.1/mtouch-cache/1-Link/mscorlib.dll
+/Users/danny.qi/Projects/Chart/Chart/bin/iPhone/Debug/device-builds/iphone8.1-12.4.1/Chart.app:/Users/danny.qi/Projects/Chart/Chart/obj/iPhone/Debug/device-builds/iphone8.1-12.4.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+/Users/danny.qi/Projects/Chart/Chart/bin/iPhone/Debug/device-builds/iphone8.1-12.4.1/Chart.app:/Users/danny.qi/Projects/Chart/Chart/obj/iPhone/Debug/device-builds/iphone8.1-12.4.1/mtouch-cache/1-Link/System.dll
